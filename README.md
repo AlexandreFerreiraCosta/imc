@@ -1,16 +1,23 @@
-# imc
+# IMC
 
-Este aplicativo tem por objetivo geral calcular o IMC(Índice de Massa Corporal) de uma pessoa.
+Este aplicativo tem por objetivo geral calcular o IMC(índice de massa corporal) das pesssoas.
 
-## Getting Started
+Sera efetuado melhorias no projeto.
 
-This project is a starting point for a Flutter application.
+## Requisitos
 
-A few resources to get you started if this is your first Flutter project:
+ * Android Studio
+ * Android SDK
+ * Flutter SDK
+ * Git
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Para iniciar no flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Instalar o Android Studio
+* Instalar e configurar o Dart SDK
+* Instalar e configurar o Flutter SDK
+* Configurar as Variáveis de Ambiente
+
+## Configurações do projetos nas IDE
+
+Este projeto é um projeto Flutter. Com isso, o processo de configuração dele é o padrão de qualquer projeto Flutter.
