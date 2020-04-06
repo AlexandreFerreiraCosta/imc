@@ -2,7 +2,7 @@
 
 Este aplicativo tem por objetivo geral calcular o IMC(índice de massa corporal) das pesssoas.
 
-Será efetuado melhorias.
+Sera efetuado melhorias no projeto.
 
 ## Requisitos
 
