@@ -4,6 +4,8 @@ Este aplicativo tem por objetivo geral calcular o IMC(índice de massa corporal)
 
 Sera efetuado melhorias no projeto.
 
+![Tela Aplicação](https://github.com/AlexandreFerreiraCosta/imc/blob/master/imagens/IMC.gif)
+
 ## Requisitos
 
  * Android Studio
